@@ -1,0 +1,8 @@
+pretrained/*
+
+!pretrained/labels.txt
+!pretrained/yolov4.cfg
+
+__pycache__/
+
+**/__pycache__/
